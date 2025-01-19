@@ -1,5 +1,5 @@
-﻿using Microsoft.Extensions.Caching.Memory;
-using System.Text.Json;
+﻿using System.Text.Json;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace Vicgital.Core.Caching.Services.InMemoryCache
 {
