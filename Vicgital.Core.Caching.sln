@@ -8,6 +8,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{6BB8CE45-7E0A-43EF-9D2C-34E152BD4EBC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "devops", "devops", "{33644A45-3C42-4A15-ADF9-A4FE93980C73}"
+	ProjectSection(SolutionItems) = preProject
+		azure-pipelines-publish.yml = azure-pipelines-publish.yml
+		README.md = README.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vicgital.Core.Caching", "src\Vicgital.Core.Caching\Vicgital.Core.Caching.csproj", "{E9A2C6ED-131E-40FA-BEBD-21DC4F5D47E7}"
 EndProject
